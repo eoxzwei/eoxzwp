@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Winter 2019 &#8211; Eoxz</title>
+	<atom:link href="https://eoxzwei.github.io/eoxzwp/category/winter-2019/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eoxzwei.github.io/eoxzwp</link>
+	<description>Di mana air mengalir sampai Jauh</description>
+	<lastBuildDate>Sun, 17 Feb 2019 03:16:27 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>https://eoxzwei.github.io/eoxzwp/wp-content/uploads/2019/02/cropped-videoplayback.WEBM_snapshot_00.35_2019.02.17_08.35.13-1-32x32.jpg</url>
+	<title>Winter 2019 &#8211; Eoxz</title>
+	<link>https://eoxzwei.github.io/eoxzwp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Date A Live III &#8211; Episode 5</title>
+		<link>https://eoxzwei.github.io/eoxzwp/2019/02/17/date-a-live-iii-episode-5/</link>
+		<comments>https://eoxzwei.github.io/eoxzwp/2019/02/17/date-a-live-iii-episode-5/#respond</comments>
+		<pubDate>Sun, 17 Feb 2019 02:23:31 +0000</pubDate>
+		<dc:creator><![CDATA[eoxz]]></dc:creator>
+				<category><![CDATA[Date A Live III]]></category>
+		<category><![CDATA[Winter 2019]]></category>
+
+		<guid isPermaLink="false">https://eoxzwei.github.io/eoxzwp/?p=24</guid>
+		<description><![CDATA[Seirusan pengennya ngepost di exa, tapi si wawan rada sibuk makanya ngesolo dulu, sembari nungguin dia ngedit kartun gundam movie.]]></description>
+				<content:encoded><![CDATA[
+<p>Seirusan pengennya ngepost di exa, tapi si wawan rada sibuk makanya ngesolo dulu, sembari nungguin dia ngedit kartun gundam movie.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://eoxzwei.github.io/eoxzwp/2019/02/17/date-a-live-iii-episode-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
